@@ -86,7 +86,7 @@ int main() {
     printf("Densidade Populacional: %d \n",dp_B02);
     printf("PIB per Capita: %d \n",pc_B02);
 
-    //PARTE FINAL DE COMPARAÇÃO DE CARTA
+    //PARTE FINAL DE COMPARAÇÃO DE CARTAS SEM UTILIZAÇÃO DE IF
     printf("COMPARACAO DE CARTAS: \n"); 
     printf("Populacao: Carta 1 venceu (%d) \n",pop, pop = pop_A01 > pop_B02 ); 
     printf("Area: Carta 1 venceu (%d) \n", area, area = area_A01 > area_B02);
